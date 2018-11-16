@@ -4,6 +4,8 @@
 
 layout: home
 ---
+
+
 <!-- Content  -->
 <section>
   <div class="columns">
